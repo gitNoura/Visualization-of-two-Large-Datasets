@@ -42,7 +42,9 @@ Using the "What/Why/How" methodology, we describe the datasets, pinpoint tasks, 
 
 #### Why?  
 - Identify seismic hotspots and analyze earthquake density and intensity over time.  
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/382f19fa-df37-4f7c-b8b0-92589418827b" alt="Image Description">
+</div>
 ---
 
 ## 🗺️ Field Visualization  
@@ -70,5 +72,7 @@ Using the "What/Why/How" methodology, we describe the datasets, pinpoint tasks, 
 - Target: Highlight the most common cancer types for preventive measures.  
 - Map Chart: Provide a global overview.  
 - Bar Chart: Offer detailed comparison within Morocco.  
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/4ed89950-aa74-4033-8981-3aaa5cff205b" alt="Image Description">
+</div>
 
